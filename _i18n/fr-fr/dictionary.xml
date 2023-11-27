@@ -3109,7 +3109,6 @@ Le clonage d'une application avec une classe de stockage définie explicitement 
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">Communauté NetApp</block>
   <block id="874d8a5301794a9ca2aba132ac2460f3" category="sidebar">Kubernetes Hub</block>
   <block id="213686afc3803be7caa09348765467fe" category="sidebar">Où obtenir de l'aide</block>
-  <block id="0a560904c58e3cede88c521d796e1617" category="sidebar">Documentation Astra Control Center</block>
   <block id="93168a8084b3e838d2932c4734bd234e" category="sidebar">Versions antérieures</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Commencez</block>
   <block id="6bdc7c13872089b240b2d2e134bf8244" category="sidebar">Configurez un cert-Manager externe</block>
@@ -3128,4 +3127,5 @@ Le clonage d'une application avec une classe de stockage définie explicitement 
   <block id="0460583622f03a52d7693094d6fa2452" category="sidebar">Concepts</block>
   <block id="8d85c59d57ad2cafad4f894413219af0" category="sidebar">Classes de stockage et taille PV</block>
   <block id="ae5601e1a5453d0b5924098584b9c3f2" category="sidebar">Nouveautés de la nouvelle version d'Astra Control Center</block>
+  <block id="6864eb9fc45cd6c1219a8562ce1cbe18" category="sidebar">Documents relatifs à Astra Control Center 23.07</block>
 </blocks>
